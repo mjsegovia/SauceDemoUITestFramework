@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\models\\shippinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\models\\shippinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\shippinginformationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\shippinginformationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\shoppingcartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\shoppingcartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\purshasecompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\purshasecompletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\pageobjects\\checkoutoverviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\pageobjects\\checkoutoverviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\testinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\testinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\tests\\featurefiles\\purchaseproducts.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\tests\\featurefiles\\purchaseproducts.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\tests\\stepsdefinitions\\shoppingcartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\tests\\stepsdefinitions\\shoppingcartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|c:\\users\\mj_se\\onedrive\\escritorio\\job stuff\\searching job stuff\\company assesments\\hackerrank (gig)\\saucedemouitestframework\\saucedemouitestframework\\saucedemouitestframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AB5DADFA-8776-48AA-83FF-8FFF8402894B}|SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj|solutionrelative:saucedemouitestframework\\saucedemouitestframework.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckoutOverviewPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\CheckoutOverviewPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\CheckoutOverviewPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\CheckoutOverviewPage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\CheckoutOverviewPage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:39:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Models\\Product.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:11:42.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:47:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ProductPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ProductPage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\ProductPage.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:49:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PurshaseCompletePage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\PurshaseCompletePage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\PurshaseCompletePage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\PurshaseCompletePage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\PurshaseCompletePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:27:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingInformationPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ShippingInformationPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\ShippingInformationPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ShippingInformationPage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\ShippingInformationPage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:28:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingCartPage.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ShoppingCartPage.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\PageObjects\\ShoppingCartPage.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\PageObjects\\ShoppingCartPage.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\PageObjects\\ShoppingCartPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:28:18.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShippingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Models\\ShippingInfo.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\Models\\ShippingInfo.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Models\\ShippingInfo.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\Models\\ShippingInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T17:21:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\TestInitializer.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\TestInitializer.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\TestInitializer.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\TestInitializer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:22:41.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchaseProducts.feature",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Tests\\FeatureFiles\\PurchaseProducts.feature",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\Tests\\FeatureFiles\\PurchaseProducts.feature",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Tests\\FeatureFiles\\PurchaseProducts.feature",
+              "RelativeToolTip": "SauceDemoUITestFramework\\Tests\\FeatureFiles\\PurchaseProducts.feature",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATwSURBVEhLnVRbbFRVFF3n3nm002k70PdMH5QWsC8hbUJIwKaGgH2gkUj0Q39MQ2LDB2r4MjHhwy9jJNFEo8QfFA0/RhE\u002BEIoCigXRlEKBStuhD0qfczuvO3M7d\u002Ba4z7mTMqXGWFfmzsw5d\u002B\u002B19157n8OQRt\u002Bt61yP6\u002Bj3D8DkyfTu2tDoq0OWMwuuLBd2NG1n4JzLADt6dvGCjYvwVnFUFpSAMUaP9PnP4BxY1EMI6jqmxhg2s04cO/I\u002BY99fOsNPDr6D5oYStPqew1PrGwBJnhmBvFes/wkchmnAHxzG5Yfn8OuPOeje0w127NTHfMp9Aq/Uv4qSnCJo8bm0QyZWBlCYDSluplePYVPsyHV4MBOdw1vHP8P\u002Bp3ugxrzRo\u002B07a\u002BFzlyCYCFCpKXJOSoJkyoTTXoCNxQfgzqrCYtxP0tlQ5z2IfNcmaPoIEskIyEPam6klhBOLcCgK7kb78VufH8psZB4qU6URs1qyDLFSmF0\u002B2Y5iOG356V1OgVSoqh12Wx7sqpt2FeEiOQSXw65AcCuioUIAiQx\u002Bu0pkRKIvzSAQHZR7DCpVaEqJtOg9xKni6sJ9qCroRI6zXNpkcghuGVbsLe9TNJ\u002BnDfXebmyrOAyv5xnMhm/gwcJZamKApEigf/xDkmcINUUvIcteCFVxkNtymstcNKXpup5AMD4C3XiEuKkRQQFyHF5E4hOkdxRJCsBJApHJXPhPPNQuYiJwnuynJGFGHInVASh8ND4J//wPGJ45hTHKPGJM0AvhSdpLI5A8CwjHR2n278tGM6ZISR5LYWFVAJGE07aeDhydibLXUV20Hy5HKfmpNIYusiBdmUPGU5QsNJUfQoP3DWyteNMaXWpyZhHKExUROI1kJdzOCpmVRg2OUvmF7ibasxpZlr9TZmuaESzGRqSPGAaRhPgvQshC6EsRf1Y0iByNhEYN1TATvIaFyG0ZyLduNxw0kmIuivNasKHwBRrRfJLyO9yZ\u002Bhx/TZ/MkMiqgi4cKL58Lx0QU0ojm0QIGw8wNH0CM6HfqZ0mkT9LDinY1Bxq8hLZJZGXXY0CqkrASIbovXVBCg5BEzOSENxKfWUjQkYYCVPoJ23SSC/oZGvRu1TVAkKxUZnVWOAcprSfMU9TZOUp07YSpI/gWphLoKGqCUrxuhKMLExgMjSJpElnMCUeypcmkdMX5wqN6DhG504jpI/TmmE\u002BNIDp4HUsmVFQZ8lO2Fu/gkNw6YFsFHmKwa78cYUf\u002BvRtFJbHUFtnQ55boSTEVQC0\u002BzqQm\u002B0mjhSmwzO4ExpEIKZRvunhsxK3QJknKUA0msLwPRPbafq6duy1TK72X\u002BXvffkBDBYGdwboWjRQ28Dx2paXiYTTzBs4P30B/jEdwUcu6oVdcj6JWIz6oTO4mAe9H50VWyJPC5euX\u002BY3/Xdwc6QftwIX0dqWh47SDkTMMO7Hh3DmpzHkmpvQua0L98aHoYWDMJYMeeMKCPm9xWWo8VWjprQSz7ftk9yZRUq0HG7ku/e6sMW9GTdmb2N0iGNxKhfXPvklbbHa59\u002Bw4iT3XuvllRtsYLYExgw/BvqIS6vEvpYu8VoQr4lcYEWAb3q/RVkFaRlPYuC2jq1lrWhv3oMXd3WmLdaO5Yy\u002BOv01P37hC8RZCOqSB3ubW3H04Lvi1ZqzzsRyBdXl1XA7cpDLSnHkQI8g/1\u002BSrATwN1VzM2ZLYFwgAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-08-23T15:54:31.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Tests\\StepsDefinitions\\ShoppingCartStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\Tests\\StepsDefinitions\\ShoppingCartStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\Tests\\StepsDefinitions\\ShoppingCartStepDefinitions.cs",
+              "RelativeToolTip": "SauceDemoUITestFramework\\Tests\\StepsDefinitions\\ShoppingCartStepDefinitions.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T16:18:33.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SauceDemoUITestFramework",
+              "DocumentMoniker": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj",
+              "RelativeDocumentMoniker": "SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj",
+              "ToolTip": "C:\\Users\\mj_se\\OneDrive\\Escritorio\\Job Stuff\\Searching Job Stuff\\Company Assesments\\HackerRank (GIG)\\SauceDemoUITestFramework\\SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj",
+              "RelativeToolTip": "SauceDemoUITestFramework\\SauceDemoUITestFramework.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T16:16:18.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
