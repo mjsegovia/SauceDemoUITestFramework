@@ -1,44 +1,48 @@
 ﻿using OpenQA.Selenium;
 using SauceDemoUITestFramework.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SauceDemoUITestFramework.PageObjects
 {
     internal class CheckoutOverviewPage
     {
-        private readonly IWebDriver _driver;
-
+        private IWebDriver _driver;
+        
         public CheckoutOverviewPage(IWebDriver driver)
         {
             _driver = driver;
         }
 
+        private IWebElement ProductContainer =>
+            _driver.FindElement(By.XPath("//*[@data-test='inventory-item']"));
+        private IWebElement ProductName =>
+           ProductContainer.FindElement(By.ClassName("inventory-item-name"));
+        private IWebElement ProductQuantity =>
+           ProductContainer.FindElement(By.XPath("//*[@data-test='item-quantity']"));
+        private IWebElement ProductDescription =>
+           ProductContainer.FindElement(By.ClassName("inventory_item_desc"));
+        private IWebElement ProductPrice =>
+           ProductContainer.FindElement(By.ClassName("inventory_item_price"));
+
         private IWebElement FinishBtn =>
             _driver.FindElement(By.Id("finish"));
-        private IWebElement ProductName => 
-            _driver.FindElement(By.Id("item_0_title_link"));
-        private IWebElement ProductPrice => 
-            _driver.FindElement(By.XPath("//*[@data-test='inventory-item-price']"));
 
+        internal Product GetProductDetails()
+        {
+            string quantity = ProductQuantity.Text;
+
+            Product product = new Product
+            {
+                Name = ProductName.Text,
+                Price = ProductPrice.Text,
+                Quantity = int.Parse(quantity)
+            };
+
+            return product;
+        }
 
         internal void FinishTheOrder()
         {
             FinishBtn.Click();
-        }
-
-        internal Product GetProductDetails()
-        {
-            var product = new Product
-            {
-                Name = ProductName.Text.Trim(),
-                Price = ProductPrice.Text.Trim(),
-                Quantity = 1 //TODO: this is mock for running out of time
-            }; 
-            return product;
         }
     }
 }

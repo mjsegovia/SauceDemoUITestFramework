@@ -1,25 +1,31 @@
 ﻿using OpenQA.Selenium;
 using SauceDemoUITestFramework.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SauceDemoUITestFramework.PageObjects
 {
-    internal class ProductPage
+    internal class InventoryPage
     {
-        private IWebDriver _driver;
         private string _productName = string.Empty;
 
-        public ProductPage(IWebDriver driver)
+        private IWebDriver _driver;
+
+        public InventoryPage(IWebDriver driver)
         {
             _driver = driver;
         }
 
-        private IWebElement ProductElement => 
-            _driver.FindElement(By.XPath($"//*[@data-test='inventory-item-description' and .//text()='{_productName}']"));
+        private IWebElement ProductElement =>
+          _driver.FindElement(By.XPath($"//*[@data-test='inventory-item-description' and .//text()='{_productName}']"));
+
+        internal void GoTo()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal Product GetProductDetails()
+        {
+            throw new NotImplementedException();
+        }      
 
         internal Product SaveDetailsProduct(string productName)
         {
@@ -39,7 +45,7 @@ namespace SauceDemoUITestFramework.PageObjects
             _productName = productName;
 
             IWebElement addToCartBtn = ProductElement.FindElement(By.Id("add-to-cart-sauce-labs-backpack"));
-            addToCartBtn.Click();   
+            addToCartBtn.Click();
         }
     }
 }

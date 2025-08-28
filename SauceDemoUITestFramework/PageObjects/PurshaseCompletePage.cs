@@ -1,21 +1,22 @@
 ﻿using OpenQA.Selenium;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SauceDemoUITestFramework.PageObjects
 {
-    internal class purchaseCompletePage
+    internal class PurchaseCompletePage
     {
-        public purchaseCompletePage(IWebDriver driver)
+        private IWebDriver _driver;
+
+        public PurchaseCompletePage(IWebDriver driver)
         {
+            _driver = driver;
         }
+
+        private IWebElement CheckoutCompleteContainer =>
+            _driver.FindElement(By.Id("checkout_complete_container"));
 
         internal string GetMessage()
         {
-            throw new NotImplementedException();
+            return CheckoutCompleteContainer.Text;
         }
     }
 }

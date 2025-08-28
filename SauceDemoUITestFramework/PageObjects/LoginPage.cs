@@ -13,6 +13,7 @@ namespace SauceDemoUITestFramework.PageObjects
 
         public LoginPage(IWebDriver driver)
         {
+            _driver = driver;
         }
 
         private IWebElement UserName => 
@@ -33,6 +34,7 @@ namespace SauceDemoUITestFramework.PageObjects
         internal void UserLogsIn(string username, string password)
         {
             UserName.SendKeys(username);
+            Thread.Sleep(1000); //TODO: Add waiter helper class
             Password.SendKeys(password);
             LoginBtn.SendKeys(username);
         }
