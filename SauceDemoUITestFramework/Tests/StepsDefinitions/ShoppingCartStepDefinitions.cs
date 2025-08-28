@@ -1,10 +1,7 @@
 using FluentAssertions;
 using OpenQA.Selenium;
-using OpenQA.Selenium.DevTools.V137.Network;
 using SauceDemoUITestFramework.Models;
 using SauceDemoUITestFramework.PageObjects;
-using System;
-using System.ComponentModel.Design;
 using TechTalk.SpecFlow;
 using TechTalk.SpecFlow.Assist;
 
@@ -15,21 +12,20 @@ namespace SauceDemoUITestFramework.Tests.StepsDefinitions
     {
         private readonly ScenarioContext _scenarioContext;
         private LoginPage _loginPage;
-        private ProductPage _productPage;
-        private purchaseCompletePage _purchaseCompletePage;
+        private CheckoutOverviewPage _checkoutOverview;
+        private PurchaseCompletePage _purchaseComplete;
+        private InventoryPage _inventory;
+        private ShippingInformationPage _shippingInformation;
         private ShoppingCartPage _shoppingCartPage;
-        private ShippingInformationPage _shippingInformationPage;
-        private CheckoutOverviewPage _checkoutOverviewPage;
 
         public ShoppingCartStepDefinitions(IWebDriver driver, ScenarioContext context)
         {
             _scenarioContext = context;
             _loginPage = new LoginPage(driver);
-            _productPage = new ProductPage(driver);
-            _purchaseCompletePage = new purchaseCompletePage(driver);
-            _shoppingCartPage = new ShoppingCartPage(driver);   
-            _shippingInformationPage = new ShippingInformationPage(driver);
-
+            _checkoutOverview = new CheckoutOverviewPage(driver);
+            _purchaseComplete = new PurchaseCompletePage(driver);
+            _inventory = new InventoryPage(driver);
+            _shippingInformation = new ShippingInformationPage(driver);
         }
 
         [Given(@"My usernme is '(.*)'")]
@@ -57,8 +53,8 @@ namespace SauceDemoUITestFramework.Tests.StepsDefinitions
         [When(@"I add to the cart the item '(.*)'")]
         public void WhenIAddToTheCartTheItem(string productName)
         {
-            _productPage.SelectProductByName(productName);
-            Product product = _productPage.SaveDetailsProduct(productName);
+            _inventory.SelectProductByName(productName);
+            Product product = _inventory.SaveDetailsProduct(productName);
 
             _scenarioContext.Add("product", product);            
         }
@@ -84,15 +80,15 @@ namespace SauceDemoUITestFramework.Tests.StepsDefinitions
         {
             ShippingInfo info = shippingInformation.CreateInstance<ShippingInfo>();
 
-            _shippingInformationPage.AddShippingInformation(info);
-            _shippingInformationPage.ContinueNextStep();
+            _shippingInformation.AddShippingInformation(info);
+            _shippingInformation.ContinueNextStep();
         }
 
         [Then(@"I should see the checkout overview has my purchase correctly")]
         public void ThenIShouldSeeTheCheckoutOverviewHasMyPurchaseCorrectly()
         {
             Product productExpected = _scenarioContext.Get<Product>("product");
-            Product cartProduct = _checkoutOverviewPage.GetProductDetails();
+            Product cartProduct = _checkoutOverview.GetProductDetails();
 
             cartProduct.Should().BeEquivalentTo(productExpected);
         }
@@ -101,13 +97,13 @@ namespace SauceDemoUITestFramework.Tests.StepsDefinitions
         [Then(@"I comfirm the order")]
         public void ThenIComfirmTheOrder()
         {
-            _checkoutOverviewPage.FinishTheOrder();
+            _checkoutOverview.FinishTheOrder();
         }       
-
+        
         [Then(@"I should see the confirmation of the purchase '(.*)'")]
-        public void ThenIShouldSeeTheConfirmationOfMyOrder(string messageExpected)
+        public void ThenIShouldSeeTheConfirmationOfMypurchase(string messageExpected)
         {
-            string message = _purchaseCompletePage.GetMessage();
+            string message = _purchaseComplete.GetMessage();
             
             message.Should().Be(messageExpected);
         }

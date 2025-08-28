@@ -149,7 +149,7 @@ this.FeatureBackground();
  testRunner.And("I comfirm the order", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 23
- testRunner.And("I should see the confirmation of my order \'Thank you for your order\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And("I should see the confirmation of my purchase \'Thank you for your order\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }
             this.ScenarioCleanup();

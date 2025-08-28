@@ -20,4 +20,4 @@ Scenario: Buy a single item and complete checkout
 	| PostalCode | JKU 4566 |
 	Then I should see the checkout overview has my purchase correctly
 	And I comfirm the order
-	And I should see the confirmation of my order 'Thank you for your order'
+	And I should see the confirmation of my purchase 'Thank you for your order'
